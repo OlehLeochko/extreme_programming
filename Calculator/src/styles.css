@@ -1,0 +1,26 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  max-width: 400px;
+  border-radius: 10px;
+}
+.clear {
+  width: 75%;
+}
+button {
+  width: 25%;
+  border-radius: 5px;
+  background-color: #ff6347;
+  color: #ffd700;
+  font-size: 15px;
+  font-weight: bold;
+  height: 50px;
+}
+#ans {
+  background-color: navajowhite;
+  padding: 10px 10px;
+  text-align: center;
+  color: #00ff00;
+  font-size: 20px;
+  border-radius: 10px;
+}
